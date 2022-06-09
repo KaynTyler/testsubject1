@@ -1,11 +1,8 @@
-*{
-    padding: 0%;
-    margin: auto;
-    background-color:darkslategray;
+.page-col1{
+    font-size: 20px;
+    color: red;
 }
-.page{
-    padding: 8px;
-    margin: auto;
-    text-align: center;
-    color: blanchedalmond;
+.page-col2{
+    font-size: 20px;
+    color: red;
 }
