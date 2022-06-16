@@ -1,8 +1,40 @@
-.page-col1{
-    font-size: 20px;
-    color: red;
+.menu{
+    
 }
-.page-col2{
-    font-size: 20px;
-    color: red;
+
+.logo{
+    width: 27px;
+    height: 25px;
+}
+
+ 
+.container{
+    
+    }
+    
+.left{
+    display: inline-block;
+    width:40%;
+    
+}
+.right{
+    display: inline-block;
+    width:40%;     
+}
+
+
+.footer{
+    background-color: crimson;
+    padding: 20px;
+    border-style:solid ;
+    border-width: 4px;
+}
+.microsoft{
+    width: 119.656px;
+    height: 40px;
+    display: inline-block;
+}
+.rightimage{
+    width: 200px;
+    height: 200px;
 }
