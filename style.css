@@ -1,13 +1,36 @@
+
+.mother{
+     margin-left: 200px;
+     margin-right: 190px;
+}
+
 .menu{
-    
+    margin-bottom: 30px;
 }
 
 .logo{
     width: 27px;
     height: 25px;
+    margin-right: 380px;
 }
 
- 
+.Menuitem{
+    text-decoration: none;
+    color: inherit;
+    margin-left: 16px;
+    font-size: 18px;
+}
+.Menuitem:hover{
+    border-bottom-style:solid ;
+    border-bottom-color:#cc00ff;
+    transition: 0.4s;
+}
+.description{
+    margin-bottom: 20px;
+}
+ .header{
+    margin-bottom: 20px;
+ }
 .container{
     
     }
@@ -17,6 +40,42 @@
     width:40%;
     
 }
+.blockelement{
+    display:block;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: lightgrey;
+    height: 27px;
+    width: 260px;
+    border-radius: 10px;
+    outline: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 16px;
+}
+.blockelement-col{
+    border: none;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #0084ff;
+    font-size: 19px;
+    padding :2px 20px 0px;
+    border-radius: 15px;
+    height: 40px;
+    width: 100px;
+}
+.blockelement-col:hover{
+    background-color:#ccccff ;
+    transition: 0.8s;
+}
+.inputspan{
+    margin-bottom: 30px;
+}
+.Password{
+    margin-bottom:20px;
+}
 .right{
     display: inline-block;
     width:40%;     
@@ -24,17 +83,19 @@
 
 
 .footer{
-    background-color: crimson;
-    padding: 20px;
-    border-style:solid ;
-    border-width: 4px;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 50px;
 }
 .microsoft{
     width: 119.656px;
     height: 40px;
     display: inline-block;
 }
+
 .rightimage{
-    width: 200px;
-    height: 200px;
+    width: 100%; 
+    height: 100%;
+    margin-bottom: 70px;
+    margin-left: 100px;
 }
